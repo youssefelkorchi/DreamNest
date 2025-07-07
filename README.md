@@ -20,7 +20,7 @@ DreamNest is a modern web application that helps users find and book hourly work
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/dreamnest.git
+   git clone https://github.com/youssefelkorchi/DreamNest.git
    cd dreamnest
    ```
 2. Install dependencies:
